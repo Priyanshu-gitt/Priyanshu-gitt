@@ -43,38 +43,7 @@ Building projects, contributing to open source, and preparing for global interns
 
 ---
 
-<h2 style="color:#ff2e2e;">⚔ Competitive Programming</h2>
 
-- Codeforces: 950  
-- LeetCode: 1500  
-- Training Focus: Graphs · DP · Greedy · Binary Search  
-- Weekly contest participation  
-
-Problem-solving is structured combat.
-
----
-
-<h2 style="color:#ff2e2e;">🚀 Current Focus</h2>
-
-- Advanced DSA mastery  
-- AI agents & automation systems  
-- Open-source contributions  
-- AI/ML internship preparation  
-- Long-term system design fundamentals  
-
----
-
-<h2 style="color:#ff2e2e;">📊 GitHub Analytics</h2>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff2e2e&text_color=ffffff&icon_color=8B0000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff2e2e&text_color=ffffff)
-
----
-
-<h2 style="color:#ff2e2e;">🎯 2026 Objectives</h2>
-
-- Reach Codeforces Specialist (1400+)  
 - Build 3 production-grade AI systems  
 - Contribute meaningfully to major open-source repos  
 - Secure high-impact AI internship  
