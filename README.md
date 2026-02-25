@@ -44,9 +44,6 @@ Building projects, contributing to open source, and preparing for global interns
 ---
 
 
-- Build 3 production-grade AI systems  
-- Contribute meaningfully to major open-source repos  
-- Secure high-impact AI internship  
 
 ---
 
